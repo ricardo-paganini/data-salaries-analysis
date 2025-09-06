@@ -51,7 +51,6 @@ Jupyter Notebook → organização do fluxo de análise
 - Jupyter Notebook com as análises e descrição dos insights além de todo o código do projeto em linguagem Python
 - Próximos Passos: Expandir a análise para outros cargos além de Data Analyst e Data Scientist.
 - Desenvolver um modelo preditivo para estimar salários.
-- Criar um dashboard interativo (Streamlit ou Power BI).
 
 ## **Autor**
 
